@@ -2,7 +2,6 @@ from __future__ import division
 from gensim import utils 
 import numpy as np
 import logging
-from pprint import pprint   # pretty-printer
 import re, string
 from normalizer import en_stopwords, slang_list
 from nltk.corpus import stopwords
